@@ -1,43 +1,80 @@
 # Hi, I'm Salman 👋
 
-**Graduate Data Scientist | MSc Business Analytics, UCL (2026)**
+### Graduate Data Scientist · MSc Business Analytics, UCL (2026)
 
-Recent UCL graduate with an economics and econometrics background. I build machine learning models and data pipelines for real operational problems: predictive maintenance, risk prediction and reconciling messy, multi-source data into decisions.
+I build machine learning models and data pipelines for real operational problems: predictive maintenance, risk prediction, NLP, and turning messy multi-source data into decisions. Economics and econometrics background. **London based, available immediately.**
 
-🌐 [Portfolio](https://salmankhalid-hub.github.io/SalmanKhalid/) · 💼 [LinkedIn](https://www.linkedin.com/in/salman-khalid-km01) · 📫 salmankhalid.data@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://salmankhalid-hub.github.io/SalmanKhalid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/salman-khalid-km01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmankhalid.data@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white)](https://salmankhalid-hub.github.io/SalmanKhalid/sk.pdf)
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Turbofan Engine RUL Prediction**](https://github.com/SalmanKhalid-hub/MSIN0097-rul-prediction) | Predicts remaining useful life of jet engines from 21 sensor channels (NASA C-MAPSS). Compared linear, random forest, gradient boosting and a PyTorch MLP. Tuned gradient boosting reached **test RMSE 18.43, R² 0.80**, within the published benchmark range, using engine-level splits to prevent data leakage. | Python, scikit-learn, PyTorch |
-| [**MSc Dissertation: Accord Benchmark**](https://github.com/SalmanKhalid-hub/Accord-Benchmark) | NLP/LLM benchmark suite for Smart Legal Contract tasks, built on Accord Project templates. | TypeScript, NLP, LLMs |
-| [**FTSE 100 Greenwashing Detection Pipeline**](https://github.com/SalmanKhalid-hub/greenwashing_data_extraction) | Group project (5 members): automated ETL pipeline pulling from 5 sources (web scraping, Guardian API, Reddit API, Our World in Data, web archives) to score 10 FTSE 100 firms' net-zero claims against news, social and emissions data. Spark scoring, DuckDB warehouse layer, MongoDB, Streamlit dashboard, Docker. | Python, Spark, SQL, DuckDB, Docker |
-| [**Emotion Detection: Reddit to Customer Support**](https://github.com/SalmanKhalid-hub/NLP-goemotions-customer-support-emotions) | Group project testing whether a BERT model trained on Reddit emotions (GoEmotions) transfers to customer support tweets. Both models lost about 25 pp of weighted F1 cross-domain; grouping labels recovered BERT to 0.485. My part: baseline, annotation, cross-domain evaluation. | Python, PyTorch, Hugging Face |
-| [**Diabetes Risk Prediction**](https://github.com/SalmanKhalid-hub/Programming-for-Business-Analytics-UCL) | Classifies diabetes risk from CDC BRFSS 2015 survey data. EDA, feature engineering and a comparison of logistic regression, decision tree and random forest, with a focus on recall for an imbalanced screening problem. | Python, pandas, scikit-learn |
-| [**Marketing Analytics & Customer Targeting**](https://github.com/SalmanKhalid-hub/Marketing-Analytics-UCL) | RFM features, k-means segmentation and tree-based targeting on 5,000 customers. Targeted mail-out lifted campaign ROI from -0.22 to +0.68. | R, machine learning |
+### ✈️ [Turbofan Engine Remaining Useful Life Prediction](https://github.com/SalmanKhalid-hub/MSIN0097-rul-prediction)
+Predicts how many cycles a jet engine has left from 21 sensor channels (NASA C-MAPSS). Compared linear regression, random forest, gradient boosting and a PyTorch MLP with engine-level splits to prevent leakage.<br>
+**Result:** tuned gradient boosting reached **test RMSE 18.43, R² 0.80**, within the published benchmark range.<br>
+`Python` `scikit-learn` `PyTorch` `Predictive maintenance`
 
-<!-- Uncomment and fix the link once this repo is public:
-| [**Sentiment Classification with Transformers**](https://github.com/SalmanKhalid-hub/REPO-NAME) | Sentiment classification on the Stanford Sentiment Treebank comparing classical models with Hugging Face Transformers, with error analysis. | Python, PyTorch, Hugging Face |
+### ⚖️ [MSc Dissertation: Accord Benchmark](https://github.com/SalmanKhalid-hub/Accord-Benchmark)
+An NLP/LLM benchmark suite for Smart Legal Contract tasks, built on Accord Project templates.<br>
+`TypeScript` `NLP` `LLMs` `Benchmarking`
+
+### 🌿 [FTSE 100 Greenwashing Detection Pipeline](https://github.com/SalmanKhalid-hub/greenwashing_data_extraction)
+Group project (5 members). Automated ETL pipeline pulling from 5 sources (web scraping, Guardian API, Reddit API, Our World in Data, web archives) to score 10 FTSE 100 firms' net-zero claims against news, social and emissions data.<br>
+**Built with:** Spark scoring, DuckDB warehouse layer, MongoDB, Streamlit dashboard, Docker.<br>
+`Python` `Spark` `SQL` `DuckDB` `Data engineering`
+
+### 💬 [Emotion Detection: Reddit to Customer Support](https://github.com/SalmanKhalid-hub/NLP-goemotions-customer-support-emotions)
+Group project. Tested whether a BERT model trained on Reddit emotions (GoEmotions) works on customer support tweets.<br>
+**Result:** both models lost about 25 pp of weighted F1 cross-domain; grouping labels recovered BERT to 0.485. My part: baseline, annotation, cross-domain evaluation.<br>
+`Python` `BERT` `Hugging Face` `NLP`
+
+### 🩺 [Diabetes Risk Prediction](https://github.com/SalmanKhalid-hub/Programming-for-Business-Analytics-UCL)
+Classifies diabetes risk from 250k+ CDC BRFSS survey records. Compared logistic regression, decision tree and random forest with a focus on recall for an imbalanced screening problem.<br>
+`Python` `pandas` `scikit-learn` `Classification`
+
+### 🎯 [Marketing Analytics & Customer Targeting](https://github.com/SalmanKhalid-hub/Marketing-Analytics-UCL)
+RFM features, k-means segmentation and tree-based targeting on 5,000 customers.<br>
+**Result:** targeted mail-out lifted campaign ROI from **-0.22 to +0.68**.<br>
+`R` `Clustering` `Random forest` `Marketing analytics`
+
+<!-- Add when public:
+### 🎬 [Sentiment Classification with Transformers](https://github.com/SalmanKhalid-hub/REPO-NAME)
+Sentiment classification on the Stanford Sentiment Treebank comparing classical models with Hugging Face Transformers, with error analysis.<br>
+`Python` `PyTorch` `Hugging Face` `NLP`
 -->
 
 ---
 
-## Toolkit
+## 🛠️ Toolkit
 
-- **Languages:** Python, R, SQL
-- **ML & data:** pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, Jupyter
-- **Data engineering:** Spark, DuckDB, MongoDB, Docker, Git
-- **Practices:** leakage-safe validation, cross-validation, hyperparameter tuning, reproducible environments
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+
+**Practices:** leakage-safe validation · cross-validation · hyperparameter tuning · reproducible environments · technical documentation
 
 ---
 
-## Background
+## 🎓 Background
 
-- MSc Business Analytics, University College London (2026)
-- BSc Economics (Upper 2:1), Swansea University
-- Founded a direct marketing business and managed a team of eight (Young Entrepreneur Award)
+- **MSc Business Analytics**, University College London (2026)
+- **BSc Economics (Upper 2:1)**, Swansea University
+- **Founder & MD, SK Organisation:** ran a direct marketing firm with a team of 8; lifted conversions by 40% (Young Entrepreneur Award)
 
-**Open to:** graduate roles in data science, machine learning, data engineering and AI. London based, available immediately.
+**Open to:** graduate roles in data science, machine learning, data engineering and AI.
