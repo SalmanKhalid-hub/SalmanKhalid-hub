@@ -19,4 +19,25 @@ Recent UCL graduate with an economics and econometrics background. I build machi
 | [**Marketing Analytics & Customer Targeting**](https://github.com/SalmanKhalid-hub/Marketing-Analytics-UCL) | RFM features, k-means segmentation and tree-based targeting on 5,000 customers. Targeted mail-out lifted campaign ROI from -0.22 to +0.68. | R, machine learning |
 
 <!-- Uncomment and fix the links once these repos are public:
-| [**FTSE 100 Greenwashing Detection Pipeline**](https://github.com/SalmanKhalid-hub/REPO-NAME) | Automated ETL pipeline pulling from 5 sources (web scraping, Guardian API, Reddit API, Our World in Data, web archives), scoring 10 FTSE 100 firms'
+| [**FTSE 100 Greenwashing Detection Pipeline**](https://github.com/SalmanKhalid-hub/REPO-NAME) | Automated ETL pipeline pulling from 5 sources (web scraping, Guardian API, Reddit API, Our World in Data, web archives), scoring 10 FTSE 100 firms' net-zero claims against emissions data. Spark scoring, DuckDB warehouse layer, Streamlit dashboard, Docker. | Python, Spark, SQL, DuckDB, Docker |
+| [**Sentiment Classification with Transformers**](https://github.com/SalmanKhalid-hub/REPO-NAME) | Sentiment classification on the Stanford Sentiment Treebank comparing classical models with Hugging Face Transformers, with error analysis. | Python, PyTorch, Hugging Face |
+-->
+
+---
+
+## Toolkit
+
+- **Languages:** Python, R, SQL
+- **ML & data:** pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, Jupyter
+- **Data engineering:** Spark, DuckDB, Docker, Git
+- **Practices:** leakage-safe validation, cross-validation, hyperparameter tuning, reproducible environments
+
+---
+
+## Background
+
+- MSc Business Analytics, University College London (2026)
+- BSc Economics (Upper 2:1), Swansea University
+- Founded a direct marketing business and managed a team of eight (Young Entrepreneur Award)
+
+**Open to:** graduate roles in data science, machine learning, data engineering and AI. London based, available immediately.
