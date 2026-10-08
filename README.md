@@ -71,6 +71,7 @@ Sentiment classification on the Stanford Sentiment Treebank comparing classical 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Practices:** leakage-safe validation · cross-validation · hyperparameter tuning · reproducible environments · technical documentation
 
