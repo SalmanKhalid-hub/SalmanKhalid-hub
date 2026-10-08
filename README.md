@@ -18,6 +18,11 @@ Predicts how many cycles a jet engine has left from 21 sensor channels (NASA C-M
 **Result:** tuned gradient boosting reached **test RMSE 18.43, R² 0.80**, within the published benchmark range.<br>
 `Python` `scikit-learn` `PyTorch` `Predictive maintenance`
 
+### 🚗 [UK Aftersales Analytics: MG Reliability and Dealer Performance](https://github.com/SalmanKhalid-hub/UK-Aftersales-Analytics)
+End-to-end analytics for a car brand's aftersales team on about 12 million UK MOT tests (DVSA, 2024) plus synthetic dealer data. Python filtering, SQL Server staging, cleaning and reporting layers with every data quality fix logged, an Excel VBA macro that exports 50 dealer scorecards, and a 3-page Power BI report.<br>
+**Result:** MG passes its first MOT **87.5%** of the time (4th of 10 brands) but fails more often than competitors at 5 to 6 years old (**23.2% vs 18.5%**).<br>
+`SQL Server` `Power BI` `Excel VBA` `Python` `Data quality`
+
 ### ⚖️ [MSc Dissertation: Accord Benchmark](https://github.com/SalmanKhalid-hub/Accord-Benchmark)
 An NLP/LLM benchmark suite for Smart Legal Contract tasks, built on Accord Project templates.<br>
 `TypeScript` `NLP` `LLMs` `Benchmarking`
