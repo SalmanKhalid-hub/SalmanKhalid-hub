@@ -82,5 +82,6 @@ Sentiment classification on the Stanford Sentiment Treebank comparing classical 
 - **MSc Business Analytics**, University College London (2026)
 - **BSc Economics (Upper 2:1)**, Swansea University
 - **Founder & MD, SK Organisation:** ran a direct marketing firm with a team of 8; lifted conversions by 40% (Young Entrepreneur Award)
+- **Ex County Cricketer**, Semi-professional cricketer and coach
 
-**Open to:** graduate roles in data science, machine learning, data engineering and AI.
+**Open to:** graduate roles in data science, machine learning, data engineering, data analyst and AI.
